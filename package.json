@@ -1,0 +1,21 @@
+{
+  "name": "@adalbertorsilva/github-package-experiment",
+  "version": "1.0.0",
+  "description": "my first lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/adalbertorsilva" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adalbertorsilva/github-package-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adalbertorsilva/github-package-experiment/issues"
+  },
+  "homepage": "https://github.com/adalbertorsilva/github-package-experiment#readme"
+}
